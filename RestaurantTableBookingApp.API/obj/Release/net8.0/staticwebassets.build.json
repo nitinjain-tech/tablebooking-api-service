@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mMl+MWxsnSrxhv/9KHMGjQrQXIFVs7gnOnMt+zsRNks=",
+  "Source": "RestaurantTableBookingApp.API",
+  "BasePath": "_content/RestaurantTableBookingApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

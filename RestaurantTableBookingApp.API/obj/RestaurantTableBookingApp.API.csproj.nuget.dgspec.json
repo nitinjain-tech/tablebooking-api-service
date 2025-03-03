@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.API\\RestaurantTableBookingApp.API.csproj": {}
+  },
+  "projects": {
+    "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.API\\RestaurantTableBookingApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.API\\RestaurantTableBookingApp.API.csproj",
+        "projectName": "RestaurantTableBookingApp.API",
+        "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.API\\RestaurantTableBookingApp.API.csproj",
+        "packagesPath": "C:\\Users\\Nitin_Jain\\.nuget\\packages\\",
+        "outputPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nitin_Jain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\RestaurantTableBookingApp.Core.csproj": {
+                "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\RestaurantTableBookingApp.Core.csproj"
+              },
+              "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Data\\RestaurantTableBookingApp.Data.csproj": {
+                "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Data\\RestaurantTableBookingApp.Data.csproj"
+              },
+              "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Service\\RestaurantTableBookingApp.Service.csproj": {
+                "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Service\\RestaurantTableBookingApp.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.AzureAppServices": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.ApplicationInsights": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\RestaurantTableBookingApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\RestaurantTableBookingApp.Core.csproj",
+        "projectName": "RestaurantTableBookingApp.Core",
+        "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\RestaurantTableBookingApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Nitin_Jain\\.nuget\\packages\\",
+        "outputPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nitin_Jain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Data\\RestaurantTableBookingApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Data\\RestaurantTableBookingApp.Data.csproj",
+        "projectName": "RestaurantTableBookingApp.Data",
+        "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Data\\RestaurantTableBookingApp.Data.csproj",
+        "packagesPath": "C:\\Users\\Nitin_Jain\\.nuget\\packages\\",
+        "outputPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nitin_Jain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\RestaurantTableBookingApp.Core.csproj": {
+                "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\RestaurantTableBookingApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Service\\RestaurantTableBookingApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Service\\RestaurantTableBookingApp.Service.csproj",
+        "projectName": "RestaurantTableBookingApp.Service",
+        "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Service\\RestaurantTableBookingApp.Service.csproj",
+        "packagesPath": "C:\\Users\\Nitin_Jain\\.nuget\\packages\\",
+        "outputPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nitin_Jain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\RestaurantTableBookingApp.Core.csproj": {
+                "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Core\\RestaurantTableBookingApp.Core.csproj"
+              },
+              "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Data\\RestaurantTableBookingApp.Data.csproj": {
+                "projectPath": "F:\\LEARNING---CAREER\\RestaurantTableBooking\\RestaurantTableBookingApp\\RestaurantTableBookingApp.Data\\RestaurantTableBookingApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

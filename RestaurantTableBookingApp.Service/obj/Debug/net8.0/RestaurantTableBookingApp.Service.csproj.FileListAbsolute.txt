@@ -1,0 +1,17 @@
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\RestaurantTableBookingApp.Service.csproj.AssemblyReference.cache
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\RestaurantTableBookingApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\RestaurantTableBookingApp.Service.AssemblyInfoInputs.cache
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\RestaurantTableBookingApp.Service.AssemblyInfo.cs
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\RestaurantTableBookingApp.Service.csproj.CoreCompileInputs.cache
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\bin\Debug\net8.0\RestaurantTableBookingApp.Service.deps.json
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\bin\Debug\net8.0\RestaurantTableBookingApp.Service.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\bin\Debug\net8.0\RestaurantTableBookingApp.Service.pdb
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\bin\Debug\net8.0\RestaurantTableBookingApp.Core.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\bin\Debug\net8.0\RestaurantTableBookingApp.Data.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\bin\Debug\net8.0\RestaurantTableBookingApp.Core.pdb
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\bin\Debug\net8.0\RestaurantTableBookingApp.Data.pdb
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\Restaura.D2221B54.Up2Date
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\RestaurantTableBookingApp.Service.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\refint\RestaurantTableBookingApp.Service.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\RestaurantTableBookingApp.Service.pdb
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Service\obj\Debug\net8.0\ref\RestaurantTableBookingApp.Service.dll

@@ -1,0 +1,17 @@
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\bin\Release\net8.0\RestaurantTableBookingApp.Data.deps.json
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\bin\Release\net8.0\RestaurantTableBookingApp.Data.runtimeconfig.json
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\bin\Release\net8.0\RestaurantTableBookingApp.Data.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\bin\Release\net8.0\RestaurantTableBookingApp.Data.pdb
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\bin\Release\net8.0\RestaurantTableBookingApp.Core.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\bin\Release\net8.0\RestaurantTableBookingApp.Core.pdb
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\RestaurantTableBookingApp.Data.csproj.AssemblyReference.cache
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\RestaurantTableBookingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\RestaurantTableBookingApp.Data.AssemblyInfoInputs.cache
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\RestaurantTableBookingApp.Data.AssemblyInfo.cs
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\RestaurantTableBookingApp.Data.csproj.CoreCompileInputs.cache
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\Restaura.C2F8B687.Up2Date
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\RestaurantTableBookingApp.Data.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\refint\RestaurantTableBookingApp.Data.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\RestaurantTableBookingApp.Data.pdb
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\RestaurantTableBookingApp.Data.genruntimeconfig.cache
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Data\obj\Release\net8.0\ref\RestaurantTableBookingApp.Data.dll

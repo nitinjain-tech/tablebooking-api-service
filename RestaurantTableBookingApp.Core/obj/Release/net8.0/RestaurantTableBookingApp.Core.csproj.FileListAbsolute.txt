@@ -1,0 +1,11 @@
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\bin\Release\net8.0\RestaurantTableBookingApp.Core.deps.json
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\bin\Release\net8.0\RestaurantTableBookingApp.Core.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\bin\Release\net8.0\RestaurantTableBookingApp.Core.pdb
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\obj\Release\net8.0\RestaurantTableBookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\obj\Release\net8.0\RestaurantTableBookingApp.Core.AssemblyInfoInputs.cache
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\obj\Release\net8.0\RestaurantTableBookingApp.Core.AssemblyInfo.cs
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\obj\Release\net8.0\RestaurantTableBookingApp.Core.csproj.CoreCompileInputs.cache
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\obj\Release\net8.0\RestaurantTableBookingApp.Core.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\obj\Release\net8.0\refint\RestaurantTableBookingApp.Core.dll
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\obj\Release\net8.0\RestaurantTableBookingApp.Core.pdb
+F:\LEARNING---CAREER\RestaurantTableBooking\RestaurantTableBookingApp\RestaurantTableBookingApp.Core\obj\Release\net8.0\ref\RestaurantTableBookingApp.Core.dll
